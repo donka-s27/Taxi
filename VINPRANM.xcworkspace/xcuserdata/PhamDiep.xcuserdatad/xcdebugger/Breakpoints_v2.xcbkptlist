@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ViewController/HomeViewGroup/OrderConfirmViewController/OrderConfirmViewController.m"
+            timestampString = "498135199.753595"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "-getTripDetail"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188722.74134"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "+loginWithUser:andToken:Status:withSuccess:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ModelManager loginWithUser:andToken:Status:withSuccess:failure:]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.830364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "2752">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__66+[ModelManager loginWithUser:andToken:Status:withSuccess:failure:]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.831747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188744.482269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "+loginWithUser:andToken:Status:withSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188746.633262"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "+loginWithUser:andToken:Status:withSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188749.597901"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "+loginWithUser:andToken:Status:withSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188754.267089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "+loginWithUser:andToken:Status:withSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/ViewController.m"
+            timestampString = "498199917.151914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-onLoginWithFacebookAccount"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ViewController onLoginWithFacebookAccount]_block_invoke_3"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/ViewController.m"
+                  timestampString = "498392132.847394"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ViewController onLoginWithFacebookAccount]_block_invoke_4"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/ViewController.m"
+                  timestampString = "498392132.848808"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188909.752242"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
+            landmarkName = "+getUserProfileWithSuccess:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ModelManager getUserProfileWithSuccess:failure:]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.852507"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "331"
+                  endingLineNumber = "331"
+                  offsetFromSymbolStart = "510">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50+[ModelManager getUserProfileWithSuccess:failure:]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.854215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "333"
+                  endingLineNumber = "333"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188922.78932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "+getUserProfileWithSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188926.07401"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "389"
+            endingLineNumber = "389"
+            landmarkName = "+getUserProfileWithSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498188927.787976"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
+            landmarkName = "+getUserProfileWithSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ViewController/MenuViewController/MenuViewController.m"
+            timestampString = "498198649.328495"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-setupMainVC"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ViewController/OnlineViewGroup/OnlineViewController/OnlineViewController.m"
+            timestampString = "498189105.061288"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "-showMyTrip"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[OnlineViewController showMyTrip]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/OnlineViewGroup/OnlineViewController/OnlineViewController.m"
+                  timestampString = "498392132.915359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__34-[OnlineViewController showMyTrip]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/OnlineViewGroup/OnlineViewController/OnlineViewController.m"
+                  timestampString = "498392132.91729"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498189125.027823"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "487"
+            endingLineNumber = "487"
+            landmarkName = "+showMyTripsWithSuccess:andFailure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ModelManager showMyTripsWithSuccess:andFailure:]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.924784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "487"
+                  endingLineNumber = "487"
+                  offsetFromSymbolStart = "250">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50+[ModelManager showMyTripsWithSuccess:andFailure:]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.927755"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "487"
+                  endingLineNumber = "487"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498189141.546736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "488"
+            endingLineNumber = "488"
+            landmarkName = "+showMyTripsWithSuccess:andFailure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ViewController/OnlineViewGroup/ListPassengerViewController/ListPassengerViewController.m"
+            timestampString = "498198753.005738"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-showMyTrip"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ListPassengerViewController showMyTrip]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/OnlineViewGroup/ListPassengerViewController/ListPassengerViewController.m"
+                  timestampString = "498392132.935954"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[ListPassengerViewController showMyTrip]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/OnlineViewGroup/ListPassengerViewController/ListPassengerViewController.m"
+                  timestampString = "498392132.937331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498198782.137689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "521"
+            endingLineNumber = "521"
+            landmarkName = "+showMyRequestWithSuccess:andFailure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ModelManager showMyRequestWithSuccess:andFailure:]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.941215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "521"
+                  endingLineNumber = "521"
+                  offsetFromSymbolStart = "686">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__52+[ModelManager showMyRequestWithSuccess:andFailure:]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392132.942681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "521"
+                  endingLineNumber = "521"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/ViewController.m"
+            timestampString = "498199872.020372"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "154"
+            endingLineNumber = "154"
+            landmarkName = "-onLoginWithFacebookAccount"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ViewController onLoginWithFacebookAccount]_block_invoke_3"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/ViewController.m"
+                  timestampString = "498392132.946349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__44-[ViewController onLoginWithFacebookAccount]_block_invoke_4"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/ViewController.m"
+                  timestampString = "498392132.947746"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498199991.200148"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "385"
+            endingLineNumber = "385"
+            landmarkName = "+getUserProfileWithSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ViewController/ProfileGroupView/UpdateProfileViewController/UpdateProfileViewController.m"
+            timestampString = "498392129.601857"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
+            landmarkName = "-onSave"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UpdateProfileViewController onSave]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/ProfileGroupView/UpdateProfileViewController/UpdateProfileViewController.m"
+                  timestampString = "498392132.814425"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "321"
+                  endingLineNumber = "321"
+                  offsetFromSymbolStart = "3570">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[UpdateProfileViewController onSave]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/ProfileGroupView/UpdateProfileViewController/UpdateProfileViewController.m"
+                  timestampString = "498392132.81598"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "321"
+                  endingLineNumber = "321"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ViewController/ProfileGroupView/UpdateProfileViewController/UpdateProfileViewController.m"
+            timestampString = "498392133.966492"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "-onSave"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[UpdateProfileViewController onSave]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/ProfileGroupView/UpdateProfileViewController/UpdateProfileViewController.m"
+                  timestampString = "498392134.191643"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "4000">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37-[UpdateProfileViewController onSave]_block_invoke.460"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ViewController/ProfileGroupView/UpdateProfileViewController/UpdateProfileViewController.m"
+                  timestampString = "498392134.194387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "342"
+                  endingLineNumber = "342"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498392149.757516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "651"
+            endingLineNumber = "651"
+            landmarkName = "+updateProfileWithDriver:andDocument:withSuccess:failure:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[ModelManager updateProfileWithDriver:andDocument:withSuccess:failure:]"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392149.767289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "651"
+                  endingLineNumber = "651"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__72+[ModelManager updateProfileWithDriver:andDocument:withSuccess:failure:]_block_invoke"
+                  moduleName = "VINPRANM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/PhamDiep/Downloads/VINPRANM_Donka/LinkRider/Classess/ModelManager/ModelManager.m"
+                  timestampString = "498392149.76905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "651"
+                  endingLineNumber = "651"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498392164.230218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "681"
+            endingLineNumber = "681"
+            landmarkName = "+updateProfileWithDriver:andDocument:withSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkRider/Classess/ModelManager/ModelManager.m"
+            timestampString = "498392166.971221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "672"
+            endingLineNumber = "672"
+            landmarkName = "+updateProfileWithDriver:andDocument:withSuccess:failure:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

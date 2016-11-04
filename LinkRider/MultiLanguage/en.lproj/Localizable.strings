@@ -1,0 +1,227 @@
+
+"app_name"                                  = "TAXI NEAR";
+
+
+"home_title"                                = "HOME";
+"profile_title"                             = "PROFILE";
+"payment_title"                             = "PAYMENT";
+"share_title"                               = "SHARE";
+"help_title"                                = "HELP";
+"trip_history_title"                        = "TRIP HISTORY";
+"online_title"                              = "ONLINE";
+"register_as_driver_title"                  = "AS DRIVER";
+"language_title"                            = "中國";
+"logout_title"                              = "SIGN OUT";
+
+"header_request_car"                        = "Request Car";
+"header_order_confirm"                      = "Order Confirm";
+"header_start_trip_now"                     = "Start trip now";
+"header_your_trip"                          = "Your Trip";
+"header_payment"                            = "Payment";
+"header_payout"                             = "Redeem";
+"header_transfer"                           = "Transfer";
+"header_history"                            = "Trip Histories";
+"header_online"                             = "Online";
+"header_share"                              = "Share";
+"header_help"                               = "Help";
+"header_register_as_driver"                 = "Register as Driver";
+
+"transaction_history"                       = "Transaction History";
+"title_ok"                                  = "OK";
+"title_cancel"                              = "Cancel";
+"lbl_real_distance"                         = "The real distance (Km)";
+"lbl_distance_calculated"                   = "The distance is:";
+"lbl_facebook"                              = "Facebook";
+"lbl_google_plus"                           = "Google+";
+
+"login_via_title"                           = "You can login via";
+"login_as_driver"                           = "Driver";
+"login_as_passenger"                        = "Passenger";
+"find_car_in_radius"                        = "Find %d car in %@ radius";
+"find_cars_in_radius"                       = "Find 3 cars in 3.000m radius";
+"next_title"                                = "Next";
+"back_title"                                = "Back";
+"one_seat_title"                            = "1";
+"two_seat_title"                            = "2";
+"three_seat_title"                          = "3";
+
+
+
+
+"lbl_id_driver"                             = "Id Driver";
+"lbl_car_plate"                             = "Plate";
+"lbl_car"                                   = "Car";
+"lbl_phone"                                 = "Phone";
+"lbl_rate"                                  = "Rate";
+"lbl_update_profile"                        = "Update Profile";
+"lbl_name"                                  = "Name";
+"lbl_brand_of_car"                          = "Brand of Car";
+"lbl_model_of_car"                          = "Model of Car";
+"lbl_year_manufacturer"                     = "Year manufacturer";
+"lbl_email"                                 = "Email";
+"lbl_state"                                 = "State";
+"lbl_city"                                  = "City";
+"lbl_address"                               = "Address";
+"lbl_avatar"                                = "Avatar";
+"lbl_year"                                  = "Year";
+"lbl_cart"                                  = "Credit Cart";
+"lbl_dob"                                   = "DoB";
+"lbl_payment"                               = "Payment";
+"lbl_payout"                                = "Redeem";
+"lbl_transfer"                              = "Transfer";
+"lbl_history"                               = "History";
+"lbl_date_of_birth"                         = "Date of Birth";
+"lbl_link"                                  = "Link";
+"lbl_redeem_information"                    = "more information";
+"lbl_hours"                                 = "hours";
+"lbl_minutes"                               = "minutes";
+
+"lbl_seats"                                 = "Seats";
+"lbl_from_a"                                = "From A";
+"lbl_to_b"                                  = "To B";
+"arriving_title"                            = "ARRIVING";
+"arrived_title"                             = "ARRIVED";
+"driving_title"                             = "DRIVING";
+"finished_title"                            = "FINISHED";
+"lbl_duration"                              = "Duration";
+"request_link_title"                        = "REQUEST";
+"awaiting_title"                            = "Your request has been sent\nawaiting for driver confirmation";
+"demo_title"                                = "(for demo please wait in %d seconds)";
+"cancel_button_title"                       = "CANCEL";
+
+"order_confirm_title"                       = "Your driver is comming in";
+"lbl_cancel_trip"                           = "Cancel Trip";
+
+
+
+"lbl_driver_arrives"                        = "YOUR DRIVER ARRIVES";
+"lbl_driver_arrived"                        = "Your driver has arrived";
+"lbl_trip_finished"                         = "Your trip has finished";
+"lbl_you_arrived"                           = "YOU ARE ARRIVED";
+"lbl_start"                                 = "Start";
+"lbl_end"                                   = "End";
+"lbl_begin"                                 = "BEGIN";
+"lbl_begin_trip"                            = "BEGIN";
+"lbl_end_trip"                              = "END";
+"lbl_start_time"                            = "Start Time";
+"lbl_end_time"                              = "End Time";
+"lbl_departure"                             = "Departure";
+"lbl_destination"                           = "Destination";
+"lbl_time"                                  = "Time";
+"lbl_length"                                = "Length";
+"lbl_total_point"                           = "Total Point";
+"lbl_trip_detail"                           = "YOUR TRIP DETAIL";
+
+"lbl_points"                                = "Points";
+"lbl_point"                                 = "Point";
+"your_trip_need"                            = "Your trip need";
+"your_trip_end"                             = "YOUR TRIP IS END";
+"rating_driver"                             = "RATING DRIVER";
+"btn_send"                                  = "Send";
+"btn_payment"                               = "Add Payment";
+
+"lbl_your_balance"                          = "Your Balance";
+"lbl_amount"                                = "Amount (USD)";
+"lbl_receiver"                              = "Receiver";
+"lbl_convert"                               = "1 USD = 1 Point";
+"lbl_beneficiaryId"                         = "Beneficiary ID";
+"transfer_id_placeholder"                   = "Enter transfer Id";
+"btn_continue"                              = "Continue";
+
+"lbl_trip_id"                               = "Trip ID";
+"lbl_transaction_id"                        = "Transaction ID";
+"lbl_datetime"                              = "Date time";
+"lbl_type"                                  = "Type";
+"lbl_point"                                 = "Point";
+"lbl_note"                                  = "Note";
+"lbl_submit"                                = "SUBMIT";
+"lbl_note_content"                          = "Note Content";
+"lbl_description"                           = "Description";
+"lbl_share_title"                           = "Share to get %.0f points as a bonus";
+
+
+"waiting_title"                             = "AWAITING FOR LINK REQUEST";
+"lbl_offline"                               = "Offline";
+"lbl_request_link"                          = "Request link";
+"lbl_arrived"                               = "Arrived";
+"lbl_passenger_name"                        = "Passenger Name";
+"lbl_distance_between_driver_and_you"       = "Distance between driver and you";
+"lbl_distance_between_passenger_and_you"    = "Distance between passenger and you";
+"lbl_passenger_mobile"                      = "Passenger Mobile";
+"msg_go_to_your_passenger"                  = "Please go ahead to your passenger location";
+"msg_offline_desc"                          = "You can online to ready working as a driver";
+"msg_online_desc"                           = "You are waiting for passenger' request";
+"msg_confirm_offline"                       = "Do you want to offine?";
+
+
+"lbl_receive_link_by_passenger"             = "You have receive LINK request by passenger";
+"rating_passenger"                          = "RATING PASSENGER";
+"lbl_distance"                              = "Distance";
+"msg_logout"                                = "Do you want to logout the app?";
+
+
+"lbl_passenger"                             = "PASSENGER";
+"lbl_driver"                                = "LINK RIDER DRIVER";
+"lbl_add_main_car"                          = "Add a car";
+"lbl_add_sub_car"                           = "Add a car";
+"lbl_select_from_galery"                    = "Choose From Galery";
+"lbl_take_photo"                            = "Take Photo";
+"status_online"                             = "Online";
+"status_offline"                            = "Offline";
+"lbl_status"                                = "Status";
+"lbl_document"                              = "Document";
+"lbl_account"                               = "Bank Account";
+"lbl_select_document"                       = "Select Document";
+"lbl_in_process"                            = "In process";
+
+"CANCELLATION_ORDER_FEE"                    = "Cancel order fee";
+"EXCHANGE_POINT"                            = "Exchange point";
+"REDEEM_POINT"                              = "Redeem point";
+"TRANSFER_POINT"                            = "Transfer point";
+"TRIP_PAYMENT"                              = "Trip payment";
+"PASSENGER_SHARE_BONUS"                     = "Passenger share bonus";
+"DRIVER_SHARE_BONUS"                        = "Driver share bonus";
+
+
+"you_are_coming_to_passenger_in"            = "You are coming to passenger in";
+"lbl_you_have_arrived"                      = "You have arrived to your passenger";
+"lbl_you_driving"                           = "You are driving";
+
+"missing_from_point_or_endpoint_title"      = "Please select your from point and end point";
+"msg_error"                                 = "Please try again later";
+"msg_register_driver_success"               = "Register successfully! Admin will check and aprove your profile";
+"msg_no_trip_history"                       = "No trip found";
+
+"msg_fb_don't_have_email"                   = "Your facebook account is hiding email from the public. Please make sure you specify and share your email from your facebook account";
+"msg_confirm_cancel_request"                = "Do you want to cancel this trip? You will lost 10 points for this action";
+"msg_cancel_success"                        = "You trip is canceled";
+"msg_cancel_failed"                         = "You cannot cancel this trip. Please try again";
+"msg_cannot_offline"                        = "There are some tecnical error, please try again later";
+"msg_update_profile_success"                = "Your profile has been sent";
+"msg_missing_data"                          = "Please fill all fields to continue";
+"msg_missing_amount"                        = "Amount is missing";
+"msg_payment_success"                       = "Your payment has been sent";
+"msg_not_enough_point"                      = "Your point is not enough to redeem";
+"msg_min_redeem"                            = "Your redeem need more than %.0f";
+"msg_min_transfer"                          = "Your transfer need more than %.0f";
+"msg_missing_note"                          = "Please add a note";
+"msg_end_trip"                              = "Thanks and see you soon";
+"msg_share_success"                         = "Sharing success!";
+"msg_missing_distance"                      = "Distance is missing";
+"msg_trip_cancel_by_passenger"              = "Your trip has been cancelled by passenger";
+"msg_trip_cancel_by_driver"                 = "Your trip has been cancelled by driver";
+"msg_driver_approving"                      = "Your account information is reviewing to become driver";
+"msg_pending_update"                        = "Your last update is pending";
+"msg_technical_error"                       = "We got some technical problem, please try again later!";
+"msg_login_explain"                         = "Use Facebook or Google+ to register and login is for getting your information (email and profile) and allow you can share to earn some points!";
+"msg_update_phone_number"                   = "Please update mobile number before raise order.";
+"msg_update_trip_link"                      = "Please update number of seat.";
+"msg_missing_image"                         = "You need 2 car images to finish register as driver";
+"msg_rate_missing"                          = "Please give driver a rate before send a payment";
+"msg_rate_trip_success"                     = "Your rating has been sent!";
+"msg_your_trip_finished"                    = "Your trip has been finished successfully, press end trip to send a payment";
+"msg_login_again"                           = "Something went wrong, please try again later!";
+"msg_network_error"                         = "Network error!";
+
+
+"help_description"                          = "TaxiNear, a emerging true ride sharing mobile platform to link up passenger with driver.\n\nWhether you are driver driving with your relatives and friend, you can also share your journey with other passenger with simialr route.\n\n© 2015 by Mobile App. Proudly created by TaxiNear\n\nTaxiNear is not a transportation company.";

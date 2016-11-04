@@ -1,0 +1,33 @@
+//
+//  LinkRider-PrefixHeader.pch
+//  LinkRider
+//
+//  Created by hieu nguyen on 6/22/15.
+//  Copyright (c) 2015 Fruity Solution. All rights reserved.
+//
+
+#ifndef LinkRider_LinkRider_PrefixHeader_pch
+#define LinkRider_LinkRider_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "Common.h"
+#import "Util.h"
+#import "Validator.h"
+#import "Macros.h"
+#import "Constants.h"
+#import "UtilityClass.h"
+#import "UserDefaultHelper.h"
+#import "AppDelegate.h"
+#import "AFNHelper.h"
+#import "History.h"
+#import "SWRevealViewController.h"
+#import "NSString+FontAwesome.h"
+#import "Global.h"
+#import "Trips.h"
+#import "Constant.h"
+#import "UIFont+FontAwesome.h"
+#import "NSString+FontAwesome.h"
+#endif
